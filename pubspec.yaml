@@ -1,8 +1,8 @@
 name: my_name_widget
 description: Widget to center a text preferably with its name :D.Test only widget
 version: 0.0.1
-author: Joao Witor Felipe
-homepage:
+#author: Joao Witor Felipe
+homepage: https://github.com/JoaoWitorFelipe/my_name_widget
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
